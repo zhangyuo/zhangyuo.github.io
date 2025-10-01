@@ -52,6 +52,7 @@ interests:
   - Natural Language Processing
   - Knowledge Graph
   - Large Language Models
+  - Fault Detection
 
 education:
   - area: PhD Computer Science (AI Focus)
@@ -97,7 +98,7 @@ work:
     company_url: 'https://www.spic.com.cn/'
     company_logo: ''
     date_start: 2023-07-01
-    date_end: ''
+    date_end: 2025-03-18
     summary: |2-
       Leading R&D on AI models for smart energy. 
       Developed standardized data governance and predictive algorithms to improve photovoltaic plant efficiency, 
@@ -264,6 +265,6 @@ awards:
 
 ---
 
-**Yu Zhang** is a PhD student in the department of Computer Science at Aalborg University, supervised by [Prof. Arijit Khan](https://homes.cs.aau.dk/~Arijit/index.html). His research explores **graph neural network explainability** and **interpretable deep learning**, aiming to enhance transparency, accountability, and trust in real-world AI systems. 
+**Yu Zhang** is a PhD student in the department of Computer Science at Aalborg University, supervised by [Prof. Arijit Khan](https://homes.cs.aau.dk/~Arijit/index.html) and [Prof. Sean Bin Yang](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&hl=en). His research explores **graph neural network explainability** and **interpretable deep learning**, aiming to enhance transparency, accountability, and trust in real-world AI systems. 
 
 Yu amassed extensive experience across the **internet, finance, and energy sectors**. As a senior AI algorithm engineer and technology manager at the **State Power Investment Corporation**, he led development of **award-winning AI platforms** deployed in over **1,000 power plants**. Holder of **10+ patents and publications**, he is committed to bridging **cutting-edge research and large-scale applications**, fostering innovation at the intersection of **AI+X and intelligent systems**.

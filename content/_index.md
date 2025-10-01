@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Curriculum Vitae
-        url: uploads/resume.pdf
+        url: https://docs.google.com/document/d/e/2PACX-1vRURV0OdD3xCG4ABZqObpPUgqGH-u46rvePJIZ6nlZSgvjPeak16G01vVm35n9K-A/pub
 
       headings:
         about: 'Biography'
@@ -60,7 +60,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: '⭐ Featured Publications'
       filters:
         folders:
           - publications
@@ -71,7 +71,7 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
+      title: '📑 Recent Publications'
       text: ''
       filters:
         folders:
@@ -79,21 +79,11 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - talks
-    design:
-      view: card
-
+  
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: '📣 Recent News'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -121,9 +111,19 @@ sections:
         padding: [0, 0, 0, 0]
 
   - block: collection
+    id: talks
+    content:
+      title: '🗣️ Recent & Upcoming Talks'
+      filters:
+        folders:
+          - talks
+    design:
+      view: card
+
+  - block: collection
     id: courses
     content:
-      title: Courses
+      title: '🏫 Courses'
       subtitle: ''
       text: ''
       filters:
@@ -131,6 +131,50 @@ sections:
           - courses
     design:
       view: card
+  
+  # 💼 工作经历
+  - block: resume-experience
+    id: experience
+    content:
+      title: '💼 Experiences'
+      username: admin
+    design:
+      date_format: 'Jan 2006'
+
+  # 🛠 技能
+  - block: resume-skills
+    id: skills
+    content:
+      title: '🛠 Skills'
+      username: admin
+    design:
+      show_skill_percentage: true
+
+  # 🏆 奖项
+  - block: resume-awards
+    id: awards
+    content:
+      title: '🏆 Awards'
+      username: admin
+
+  # 🌍 语言
+  - block: resume-languages
+    id: languages
+    content:
+      title: '🌍 Languages'
+      username: admin
+  
+  - block: collection
+    id: projects
+    content:
+      title: '🚀 Projects'
+      filters:
+        folders:
+          - projects
+        featured_only: false
+    design:
+      view: article-grid
+      columns: 3
 
   - block: markdown
     id: contact

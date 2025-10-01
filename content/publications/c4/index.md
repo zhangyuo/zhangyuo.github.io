@@ -1,15 +1,14 @@
 ---
-title: 'Misfire detection based on switched state observer of hybrid system in internal combustion engine'
+title: 'Valve clearance fault diagnosis of an internal combustion engine based on wavelet packets and k-nearest neighbors'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Tonglin Zhou
-  - Taixiong Zheng
-  - Weimin Han
   - Rui Tan
+  - admin
+  - Taixiong Zheng
+  - Bin Yang
   - Yanjun Wang
 
 # Author notes (optional)
@@ -17,10 +16,10 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2017-04-03T00:00:00Z'
+date: '2016-11-04T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-04-03T00:00:00Z'
+publishDate: '2017-04-24T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,29 +27,29 @@ publishDate: '2017-04-03T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of International Conference on Advanced Manufacturing Technology and Materials Engineering, 1829*, 020043
-publication_short: In *AIP Conf. Proc, 1829*, 020043
+publication: "In *Proceedings of the International Conference ICCAE*"
+publication_short: ''
 
-abstract: This paper proposes a novel switched state observer of hybrid system using Luenberger sliding mode observer to estimate crankshaft angular acceleration which is further applied to detect misfire fault. The output error of hybrid system of internal combustion engine (engine speed) and the designed observer (estimated speed) is taken as input of observer to estimate crankshaft acceleration. Convergence of hybrid system is proven through Lyapunov stability theory. The experimental results show that the presented estimated technique has a higher accuracy and can be effectively used to misfire detection compared with reduced-order observer and sliding mode observer.
+abstract: At present, in order to improve the diagnostic accuracy, many machinery diagnosis systems with intelligent classification have been developed, such as Support Vector Machine (SVM) and the Artificial Neural Network techniques (ANN). They, especially SVM, are powerful classification tools for small sampling and nonlinear data. However, SVM is sensitive to missing data and has no certain solution for nonlinear problems. ANN needs a large number of parameters and its learning process cannot be observed, which will affect the credibility and acceptable degree of the results.
 
 # Summary. An optional shortened abstract.
-summary: This work develops a hybrid Luenberger–sliding mode observer for crankshaft acceleration estimation, enabling fast and accurate misfire fault detection.
+summary: ''
 
 tags:
   - Fault Detection
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.1063/1.4979775
+    doi: https://doi.org/10.1201/9781315226187
 
 # Custom links
 links:
   - type: pdf
-    url: publications/conference-paper/conf-paper.pdf
+    url: publications/c4/c4-paper.pdf
   # - type: code
   #   url: https://github.com/HugoBlox/hugo-blox-builder
   # - type: dataset

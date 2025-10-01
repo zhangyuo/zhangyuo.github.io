@@ -1,15 +1,15 @@
 ---
-title: 'Misfire detection based on switched state observer of hybrid system in internal combustion engine'
+title: 'Real-time crankshaft angular speed tracking and indicated torque estimation via optimized Luenberger sliding mode observer'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Tonglin Zhou
-  - Taixiong Zheng
-  - Weimin Han
   - Rui Tan
+  - Taixiong Zheng
+  - Tonglin Zhou
+  - Weimin Han
   - Yanjun Wang
 
 # Author notes (optional)
@@ -17,10 +17,10 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2017-04-03T00:00:00Z'
+date: '2017-03-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-04-03T00:00:00Z'
+publishDate: '2017-03-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,29 +28,29 @@ publishDate: '2017-04-03T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of International Conference on Advanced Manufacturing Technology and Materials Engineering, 1829*, 020043
-publication_short: In *AIP Conf. Proc, 1829*, 020043
+publication: "In *IOP Conference Series: Earth and Environmental Science, 59*, 012019"
+publication_short: "In *IOP Conf. Ser.: Earth Environ. Sci., 59*, 012019"
 
-abstract: This paper proposes a novel switched state observer of hybrid system using Luenberger sliding mode observer to estimate crankshaft angular acceleration which is further applied to detect misfire fault. The output error of hybrid system of internal combustion engine (engine speed) and the designed observer (estimated speed) is taken as input of observer to estimate crankshaft acceleration. Convergence of hybrid system is proven through Lyapunov stability theory. The experimental results show that the presented estimated technique has a higher accuracy and can be effectively used to misfire detection compared with reduced-order observer and sliding mode observer.
+abstract: The plant of the selective catalytic reduction (SCR) system is characterized by significant nonlinearity, time delay and temperature sensitivity. In order to control the urea injection accurately, the (nonlinear auto regressive moving average) NARMA-L2 model based control is applied to the SCR system. In this paper, a data-based technique is taken and a model of the plant is identified on the basis of input-output data. Then the identified model is used to the design of a NARMA-L2 controller. Simulation of the NARMA-L2 model based control for the SCR system is presented to demonstrate the effectiveness and superiority. The comparison results show better performance over the traditional PID control.
 
 # Summary. An optional shortened abstract.
-summary: This work develops a hybrid Luenberger–sliding mode observer for crankshaft acceleration estimation, enabling fast and accurate misfire fault detection.
+summary: This paper applies a data-driven NARMA-L2 model to SCR systems, enabling accurate urea injection control and demonstrating superior performance over traditional PID in simulations.
 
 tags:
   - Fault Detection
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.1063/1.4979775
+    doi: 10.1088/1755-1315/59/1/012036
 
 # Custom links
 links:
   - type: pdf
-    url: publications/conference-paper/conf-paper.pdf
+    url: publications/c2/c2-paper.pdf
   # - type: code
   #   url: https://github.com/HugoBlox/hugo-blox-builder
   # - type: dataset
