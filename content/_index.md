@@ -171,10 +171,20 @@ sections:
       filters:
         folders:
           - projects
-        featured_only: false
+        featured_only: true
+      count: 2  # no number limitation
+      # link:      # ✅ 添加一个跳转按钮
+      #   text: "See all projects →"
+      #   url: "/projects/"
     design:
       view: article-grid
-      columns: 3
+      columns: 2
+  # - block: markdown
+  #   content:
+  #     text: |
+  #       <p style="text-align:center;">
+  #         <a class="btn btn-primary" href="/projects/">See all projects →</a>
+  #       </p>
 
   - block: markdown
     id: contact

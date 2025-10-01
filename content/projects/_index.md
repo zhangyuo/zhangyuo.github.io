@@ -16,6 +16,8 @@ sections:
       filters:
         folders:
           - projects
+        featured_only: false   # ✅ 显示所有，不限精选
+      count: 0 # no number limitation
     design:
       view: article-grid
       fill_image: false
