@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Curriculum Vitae
-        url: https://docs.google.com/document/d/e/2PACX-1vRURV0OdD3xCG4ABZqObpPUgqGH-u46rvePJIZ6nlZSgvjPeak16G01vVm35n9K-A/pub
+        url: https://docs.google.com/document/d/1MYR-MJYynN5tkyNbx2EjHWdIC3wBtP99/edit?usp=sharing&ouid=110922363574906561457&rtpof=true&sd=true
 
       headings:
         about: 'Biography'
