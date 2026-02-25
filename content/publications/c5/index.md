@@ -1,26 +1,25 @@
 ---
-title: 'Misfire detection based on switched state observer of hybrid system in internal combustion engine'
+title: 'ATEX-CF: Attack-Informed Counterfactual Explanations for Graph Neural Networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Tonglin Zhou
-  - Taixiong Zheng
-  - Weimin Han
-  - Rui Tan
-  - Yanjun Wang
+  - Yu Zhang
+  - Sean Bin Yang
+  - Arijit Khan
+  - Cuneyt Gurcan Akcora
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2017-04-03T00:00:00Z'
+date: '2026-02-06T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-04-03T00:00:00Z'
+publishDate: '2026-02-06T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,29 +27,34 @@ publishDate: '2017-04-03T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of International Conference on Advanced Manufacturing Technology and Materials Engineering, 1829*, 020043
-publication_short: In *AIP Conf. Proc, 1829*, 020043
+publication: "In *International Conference on Learning Representations*"
+publication_short: "In *ICLR"
 
-abstract: This paper proposes a novel switched state observer of hybrid system using Luenberger sliding mode observer to estimate crankshaft angular acceleration which is further applied to detect misfire fault. The output error of hybrid system of internal combustion engine (engine speed) and the designed observer (estimated speed) is taken as input of observer to estimate crankshaft acceleration. Convergence of hybrid system is proven through Lyapunov stability theory. The experimental results show that the presented estimated technique has a higher accuracy and can be effectively used to misfire detection compared with reduced-order observer and sliding mode observer.
+abstract: Counterfactual explanations offer an intuitive way to interpret graph neural networks (GNNs) by identifying minimal changes that alter a model's prediction, thereby answering "what must differ for a different outcome?". In this work, we propose a novel framework, ATEX-CF that unifies adversarial attack techniques with counterfactual explanation generation-a connection made feasible by their shared goal of flipping a node's prediction, yet differing in perturbation strategy: adversarial attacks often rely on edge additions, while counterfactual methods typically use deletions. Unlike traditional approaches that treat explanation and attack separately, our method efficiently integrates both edge additions and deletions, grounded in theory, leveraging adversarial insights to explore impactful counterfactuals. In addition, by jointly optimizing fidelity, sparsity, and plausibility under a constrained perturbation budget, our method produces instance-level explanations that are both informative and realistic. Experiments on synthetic and real-world node classification benchmarks demonstrate that ATEX-CF generates faithful, concise, and plausible explanations, highlighting the effectiveness of integrating adversarial insights into counterfactual reasoning for GNNs.
 
 # Summary. An optional shortened abstract.
-summary: This work develops a hybrid Luenberger–sliding mode observer for crankshaft acceleration estimation, enabling fast and accurate misfire fault detection.
+summary: This paper proposes ATEX-CF, a novel framework that integrates adversarial insights into counterfactual explanation generation for graph neural networks (GNNs). It demonstrates improved performance in generating faithful, concise, and plausible explanations.
 
 tags:
-  - Fault Detection
+  - graph neural networks
+  - explainable AI
+  - counterfactual explanations
+  - adversarial attacks
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.1063/1.4979775
+    doi: 10.48550/arXiv.2602.06240
+    arxiv: 2602.06240
+    bibtex: cite.bib
 
 # Custom links
 links:
   - type: pdf
-    url: publications/conference-paper/conf-paper.pdf
+    url: publications/c5/c5-paper.pdf
   # - type: code
   #   url: https://github.com/HugoBlox/hugo-blox-builder
   # - type: dataset
