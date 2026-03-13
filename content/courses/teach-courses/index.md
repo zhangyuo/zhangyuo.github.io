@@ -1,7 +1,7 @@
 ---
 title: 👩🏼‍🏫 Teaching & Learning
-summary: Currently training as a mentee in problem-based learning to develop teaching skills.
-date: 2025-10-01
+summary: Training in Aalborg University's Problem-Based Learning (PBL) framework as a mentee, while contributing to student project evaluation and supervising projects on GNN watermarking and video inpainting on edge devices.
+date: 2026-03-01
 authors:
   - admin
 tags:
@@ -18,10 +18,21 @@ courses:
     date: '2025-04-01 – Present'
     links: []
 ---
-Participating as a mentee in PBL courses to develop teaching skills. Focus areas include:
+Participating as a **mentee in PBL courses** to develop teaching and supervision skills. 
+The activities focus on both pedagogical training and practical supervision of student projects. 
+Key areas include:
 
 - Designing problem scenarios to stimulate student learning
-- Facilitating student-centered, self-directed learning
-- Integrating real-world and interdisciplinary problems
-- Acting as a facilitator rather than a traditional lecturer
+- Facilitating **student-centered and self-directed learning**
+- Integrating **real-world and interdisciplinary research problems** into project-based learning
+- Acting as a **facilitator and mentor rather than a traditional lecturer**
+- Serving as a **censor for student project evaluation**, providing academic feedback and assessment of project reports and presentations
+- **Supervising student groups in project-based courses**, guiding them through research design, implementation, and evaluation
+
+In the **Spring 2026 semester**, I supervise two student groups working on research-oriented projects:
+
+- **Topic 1:** Watermarking techniques for **Graph Neural Networks (GNNs)**
+- **Topic 2:** **Video inpainting on edge devices**
+
+Through these activities, I further develop experience in **student supervision, research guidance, and assessment within the Problem-Based Learning (PBL) framework at Aalborg University**.
 
