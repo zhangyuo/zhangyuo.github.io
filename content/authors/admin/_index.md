@@ -49,7 +49,7 @@ profiles:
 
 interests:
   - GNN Explainability
-  - GNN Graph Watermarking
+  - Graph Watermarking
   - Natural Language Processing
   - Knowledge Graph
   - Large Language Models
