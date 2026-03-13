@@ -61,7 +61,7 @@ education:
     date_start: 2025-04-15
     date_end: ''
     summary: |
-      PhD candidate in the **Department of Computer Science**, supervised by **[Prof. Arijit Khan](https://homes.cs.aau.dk/~Arijit/index.html)**.  
+      PhD candidate in the **Department of Computer Science**, supervised by **[Prof. Arijit Khan](https://www.cs.bgsu.edu/arijitk/)**.  
       Current research focuses on **graph neural networks (GNNs) and explainability**, aiming to design novel methods that enhance model transparency, interpretability, and trustworthiness in real-world AI systems. One paper on **GNN Counterfactual Explanation** is currently under review at *ICLR 2026*.  
       Broader research interests span **deep learning, natural language processing, knowledge graphs, and intelligent fault diagnosis**, with an emphasis on bridging academic research and industrial applications.
     button:
@@ -266,6 +266,6 @@ awards:
 
 ---
 
-**Yu Zhang** is a PhD student in the Department of Computer Science at Aalborg University (AAU), working with the [DATA](https://vbn.aau.dk/en/organisations/section-for-data/) Section under the supervision of [Prof. Arijit Khan](https://www.cs.bgsu.edu/arijitk/). His research focuses on **graph neural network explainability** and **interpretable deep learning**, aiming to enhance transparency, accountability, and trust in real-world AI systems.
+**Yu Zhang** is a PhD student in the Department of Computer Science at Aalborg University (AAU), working with the [DATA Section](https://vbn.aau.dk/en/organisations/section-for-data/) under the supervision of [Prof. Arijit Khan](https://www.cs.bgsu.edu/arijitk/). His research focuses on **graph neural network explainability** and **interpretable deep learning**, aiming to enhance transparency, accountability, and trust in real-world AI systems.
 
 Yu amassed extensive experience across the **internet, finance, and energy sectors**. As a senior AI algorithm engineer and technology manager at the **State Power Investment Corporation**, he led development of **award-winning AI platforms** deployed in over **1,000 power plants**. Holder of **10+ patents and publications**, he is committed to bridging **cutting-edge research and large-scale applications**, fostering innovation at the intersection of **AI+X and intelligent systems**.

@@ -1,6 +1,6 @@
 ---
 title: "First PhD Paper Accepted at ICLR 2026"
-summary: "After starting my PhD at Aalborg University in April 2025, my first research paper on explainable Graph Neural Networks (GNNs) was accepted at *ICLR 2026*, presenting novel methods for faithful and interpretable GNN predictions."
+summary: "After starting my PhD at Aalborg University in April 2025, my first research paper on explainable Graph Neural Networks (GNNs) was accepted at ICLR 2026, presenting novel methods for faithful and interpretable GNN predictions."
 date: 2026-02-01
 
 image:
