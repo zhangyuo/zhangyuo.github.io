@@ -19,5 +19,5 @@ content_meta:
 
 Welcome 👋
 
-In April 2025, I started my PhD at Aalborg University focusing on **explainable Graph Neural Networks** (GNNs).  
-By September 2025, I submitted my first research paper to *ICLR 2026*, exploring novel methods for faithful and interpretable GNN predictions. This marks an exciting step in my ongoing research into **GNN explainability, robustness, and trustworthy AI**.
+In April 2025, I started my PhD at Aalborg University focusing on **explainable Graph Neural Networks (GNNs)**.  
+My first paper was **accepted at *ICLR 2026***, proposing **novel methods for faithful and interpretable GNN predictions**. This work marks an exciting step in my research on **GNN explainability, robustness, and trustworthy AI**.
