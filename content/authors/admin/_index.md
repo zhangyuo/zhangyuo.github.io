@@ -266,6 +266,6 @@ awards:
 
 ---
 
-**Yu Zhang** is a PhD student in the Department of Computer Science at Aalborg University (AAU), working with the [Data Engineering, Science and Systems (DESS)](https://www.cs.aau.dk/research/dess-data-engineering-science-and-systems) group under the supervision of [Prof. Arijit Khan](https://homes.cs.aau.dk/~Arijit/index.html). His research focuses on **graph neural network explainability** and **interpretable deep learning**, aiming to enhance transparency, accountability, and trust in real-world AI systems.
+**Yu Zhang** is a PhD student in the Department of Computer Science at Aalborg University (AAU), working with the [DATA](https://vbn.aau.dk/en/organisations/section-for-data/) Section under the supervision of [Prof. Arijit Khan](https://www.cs.bgsu.edu/arijitk/). His research focuses on **graph neural network explainability** and **interpretable deep learning**, aiming to enhance transparency, accountability, and trust in real-world AI systems.
 
 Yu amassed extensive experience across the **internet, finance, and energy sectors**. As a senior AI algorithm engineer and technology manager at the **State Power Investment Corporation**, he led development of **award-winning AI platforms** deployed in over **1,000 power plants**. Holder of **10+ patents and publications**, he is committed to bridging **cutting-edge research and large-scale applications**, fostering innovation at the intersection of **AI+X and intelligent systems**.
